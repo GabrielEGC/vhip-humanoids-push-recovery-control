@@ -48,6 +48,12 @@ We perform an example of the control with some initial conditions.
 <img src="graphics/vhipcontrol.gif">
 </p>
 
+Finally, let's note that saturating *u* is not exactly the same as saturating the reaction force in the ground, in fact, is related in a little equation, exactly: 
+
+<p align="center">
+<img src="graphics/uforce.png">
+</p>
+
 Based on "Balance control using center of mass height variation: Limitations imposed by unilateral contact" - Koolen et. al. https://ieeexplore.ieee.org/document/7803247
 
 *Note: Research is in Spanish, this is compulsory in my university for Thesis defense. 
