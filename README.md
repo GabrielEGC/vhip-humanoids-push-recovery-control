@@ -48,7 +48,7 @@ We perform an example of the control with some initial conditions.
 <img src="graphics/vhipcontrol.gif">
 </p>
 
-Finally, let's note that saturating *u* is not exactly the same as saturating the reaction force in the ground, in fact, is related in a little equation, exactly: 
+Finally, let's note that saturating *u* is not exactly the same as saturating the reaction force in the ground, in fact, is related in a little equation, exactly, being *(x,y)* the coordinates of the center of mass: 
 
 <p align="center">
 <img src="graphics/uforce.png">
