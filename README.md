@@ -11,7 +11,7 @@ So we take the model of the paper from Koolen et. al. we based on:
 <img src="graphics/vhip_dynamics.png">
 </p>
 
-They find the physical region were balance is possible and build a control law to stabilice the system in that whole region. In this work we impose an additional restriction:
+They find the physical region were balance is possible and build a control law to stabilize the system in that whole region. In this work we impose an additional restriction:
 
 <p align="center">
 <img src="graphics/vhiprest.png">
@@ -23,7 +23,7 @@ We perform a change of coordinates (bijective) in the system to normalize it:
 <img src="graphics/normalized_system.png">
 </p>
 
-We find the physical region were balance is possible under the new conditions and build a control law to stabilice the system in that whole region. This region is the normalized system: 
+We find the physical region were balance is possible under the new conditions and build a control law to stabilize the system in that whole region. This region is the normalized system: 
 
 <p align="center">
 <img src="graphics/region.png">
