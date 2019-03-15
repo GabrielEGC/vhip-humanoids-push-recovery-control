@@ -1,5 +1,5 @@
 # vhip-humanoids-push-recovery-control
-Bachellor Thesis - Stabilization of the Variable-Height Inverted Pendulum based on Input-State Stability and Sliding Mode Control under Unilateral Contact and Input Saturation.
+Bachelor Thesis - Stabilization of the Variable-Height Inverted Pendulum based on Input-State Stability and Sliding Mode Control under Unilateral Contact and Input Saturation.
 
 Abstract:
 
