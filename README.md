@@ -29,7 +29,7 @@ We find the physical region were balance is possible under the new conditions an
 <img src="graphics/region.png">
 </p>
 
-Where the variables *T* and *z<sub>c<\sub>*, were defined in the original paper:
+Where the variables *T* and *z<sub>c</sub>*, were defined in the original paper:
 
 <p align="center">
 <img src="graphics/Tzc.png">
