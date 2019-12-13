@@ -1,4 +1,6 @@
 # vhip-humanoids-push-recovery-control
+Paper version to appear in The 2019 IEEE-RAS 19th International Conference on Humanoid Robots. Available at https://www.researchgate.net/publication/337334293_A_Control_Approach_for_the_Variable-Height_Inverted_Pendulum_Based_on_Sliding_Mode_Control_with_Input_Saturation
+
 Bachelor Thesis - Stabilization of the Variable-Height Inverted Pendulum based on Input-State Stability and Sliding Mode Control under Unilateral Contact and Input Saturation.
 
 Abstract:
